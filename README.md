@@ -10,11 +10,6 @@
 
 需要你沉下心来学习，我当初逐字逐句去理解，看着书里的章节对着代码一行一行去理解，看几个案例后，书中的大概意思你能根据上下文知道其中的意思，学习新技术一定要下决心（我当初学blender建模对着油管视放0.25倍速用电子表格记录作用使用的快捷键（快逐帧观看了），我当时就心里暗暗下决心，我TM一定要学会建模，每天晚上10点到凌晨1点（小孩睡着了我才能安静的学）一共花了15个晚上学完建模）,当然你现在学，不仅能有汉化电子书，随书代码，还可以加我的微信，其中遇到难点我基本都可以为你解决，缩短你的学习周期和难度，最重要的是帮助你理解知识点。
 
-如果你只要电子书和随书代码，扫码支付19元就行，如果需要我为你提供本书的难点解答或者辅导（当然你在开发中遇到的难点，有遇到的也我也可以为你解答），扫码支付：129元即可
-
-现在你学习这本书的内容有了更好的平台，至少我从2018年学习three.js一路走来，第一是本书的内容我已经吃透了，包括建模软件建模、模型动画、贴图、GLB模型轻量化、GLB转GLTF，建模软件设置灯光导出模型，并在three.js中激活灯光并设置动画，已经了如指掌。现在这本书你完全可以拥有，且只要9.9元。
-
-我觉得自己琢磨不如高人指路，一个小问题，你可能琢磨少则半天，多则因为这问题卡住了，影像你学习的进度和热情，其实只要有个人点拨你一下，你立刻就能继续下面的研究和学习。
 
 # 目录
 
@@ -36,11 +31,18 @@
 <img src="https://github.com/webingcool/threeRealCode/blob/main/2/7.png" width=550>
 
 # 项目截图（文件名是英文，谷歌翻译方便没有接触过的同学理解）
-<img src="https://github.com/webingcool/threeRealCode/blob/main/3/1.png" width=550>
-<img src="https://github.com/webingcool/threeRealCode/blob/main/3/2.png" width=550>
-<img src="https://github.com/webingcool/threeRealCode/blob/main/3/3.png" width=550>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/3/1.png" width=850>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/3/2.png" width=850>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/3/3.png" width=850>
 
 # 案例截图
-<img src="https://github.com/webingcool/threeRealCode/blob/main/4/11.png" width=150>
-<img src="https://github.com/webingcool/threeRealCode/blob/main/4/22.png" width=150>
-<img src="https://github.com/webingcool/threeRealCode/blob/main/4/33.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/11.png" >
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/22.png" >
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/33.png" >
+
+
+
+现在你学习这本书的内容有了更好的平台，至少我从2018年学习three.js一路走来，第一是本书的内容我已经吃透了，包括建模软件建模、模型动画、贴图、GLB模型轻量化、GLB转GLTF，建模软件设置灯光导出模型，并在three.js中激活灯光并设置动画，已经了如指掌。现在这本书你完全可以拥有，且只要9.9元。
+
+我觉得自己琢磨不如高人指路，一个小问题，你可能琢磨少则半天，多则因为这问题卡住了，影像你学习的进度和热情，其实只要有个人点拨你一下，你立刻就能继续下面的研究和学习。
+
