@@ -1,6 +1,6 @@
 # Three.js 小白从入门到实战，案例分析与代码精解
 
-我学习Three.js,前后一共大概2年时间，当然也是断断续续的，因为没有项目驱动，学习也的知识点很难在一个项目中串起来，近一年内我连续开发了几个项目，将之前学的所有知识点串了起来，才真正的做到对Three的融会贯通。
+写在前面的话，也算是我这些年来Three.js学习的一些总结吧，我学习Three.js,前后一共大概2年时间，当然也是断断续续的，因为没有项目驱动，学习也的知识点很难在一个项目中串起来，近一年内我连续开发了几个项目，将之前学的所有知识点串了起来，才真正的做到对Three的融会贯通。
 
 之前自学Three官网的例子，到实操敲代码的时候，真的无从下手，是根本上的两回事，实在是看的云里雾里，尤其是场景、摄像机、render，对于自学Three.js的我们，那么多的陌生API，入门真的是一脸懵，后来自己利用出差时间，晚上回去在纸上默写threejs里面的例子，花了几个晚上默写了好几页纸，算是记住了其中的几个步骤，至今还记得，但是做不到融汇贯通。
 
@@ -25,3 +25,78 @@
 <img src="https://github.com/webingcool/threeRealCode/blob/main/1/5.png" width=550>
 <img src="https://github.com/webingcool/threeRealCode/blob/main/1/6.png" width=550>
 <img src="https://github.com/webingcool/threeRealCode/blob/main/1/7.png" width=550>
+
+# 代码文件
+<img src="https://github.com/webingcool/threeRealCode/blob/main/2/1.png" width=550>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/2/2.png" width=550>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/2/3.png" width=550>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/2/4.png" width=550>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/2/5.png" width=550>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/2/6.png" width=550>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/2/7.png" width=550>
+
+# 项目截图（文件名是英文，谷歌翻译方便没有接触过的同学理解）
+<img src="https://github.com/webingcool/threeRealCode/blob/main/3/1.png" width=550>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/3/2.png" width=550>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/3/3.png" width=550>
+
+# 案例截图
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/2-10-1.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/2-10.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/2-13.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/2-14.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/2-2.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/2-3.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/2-4.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/2-6.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/2-8.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/2-9.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/3-1.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/3-10.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/3-4.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/3-5.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/3-8.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/4-1.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/4-10.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/4-12.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/4-13.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/4-14.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/4-16.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/4-2.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/4-3.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/4-5.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/4-6.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/4-8.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/5-1.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/5-10.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/5-2.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/5-3.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/5-4.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/5-5.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/5-6.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/5-7.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/5-8.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/5-9-2.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/5-9.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/6-1.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/6-2-2.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/6-2.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/6-3.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/6-4.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/6-5-2.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/6-5.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/6-6-2.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/6-6.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/6-7.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/6-8.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/6-9.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/7-0.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/7-1.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/7-2.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/7-3.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/7-4.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/7-5.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/7-6.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/7-7.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/7-8.png" width=150>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/7-9.png" width=150>
