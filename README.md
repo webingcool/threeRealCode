@@ -37,6 +37,8 @@
 <img src="https://github.com/webingcool/threeRealCode/blob/main/4/33.png" >
 <img src="https://github.com/webingcool/threeRealCode/blob/main/4/ani.gif" >
 
+# 电子书和源码
+<img src="https://github.com/webingcool/threeRealCode/blob/main/img/bookfile.png" >
 
 现在你学习这本书的内容有了更好的平台，至少我从2018年学习three.js一路走来，第一是本书的内容我已经吃透了，包括建模软件建模、模型动画、贴图、GLB模型轻量化、GLB转GLTF，建模软件设置灯光导出模型，并在three.js中激活灯光并设置动画，已经了如指掌。现在这本书你完全可以拥有，更重要的是，你买的不仅是书，还有我的指点，这个是书办不到的事情。
 
