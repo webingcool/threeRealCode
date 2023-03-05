@@ -53,5 +53,5 @@
 
 我觉得自己琢磨不如高人指路，一个小问题，你可能琢磨少则半天，多则因为这问题卡住了，影像你学习的进度和热情，其实只要有个人点拨你一下，你立刻就能继续下面的研究和学习。
 
-<img src="https://github.com/webingcool/threeRealCode/blob/main/img/addwechart.png" >
+<img src="https://github.com/webingcool/threeRealCode/blob/main/img/addwechart.png" width="250" >
 
