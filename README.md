@@ -35,6 +35,8 @@
 <img src="https://github.com/webingcool/threeRealCode/blob/main/4/11.png" >
 <img src="https://github.com/webingcool/threeRealCode/blob/main/4/22.png" >
 <img src="https://github.com/webingcool/threeRealCode/blob/main/4/33.png" >
+
+# 动画案例
 <img src="https://github.com/webingcool/threeRealCode/blob/main/4/ani.gif" >
 
 # 电子书和源码
@@ -44,7 +46,8 @@
 
 我觉得自己琢磨不如高人指路，一个小问题，你可能琢磨少则半天，多则因为这问题卡住了，影像你学习的进度和热情，其实只要有个人点拨你一下，你立刻就能继续下面的研究和学习。
 
-# 现在最少只要9.9就能获得此书，现在加微信付款后发学习包给你：
+# 价格
+# 现在最少只要9.9就能获得学习包，现在加微信付款后发学习包给你
 
 <img src="https://github.com/webingcool/threeRealCode/blob/main/img/price.png" >
 
