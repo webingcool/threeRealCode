@@ -13,36 +13,36 @@
 
 # 目录
 
-<img src="https://github.com/webingcool/threeRealCode/blob/main/1/1.png" width=550>
-<img src="https://github.com/webingcool/threeRealCode/blob/main/1/2.png" width=550>
-<img src="https://github.com/webingcool/threeRealCode/blob/main/1/3.png" width=550>
-<img src="https://github.com/webingcool/threeRealCode/blob/main/1/4.png" width=550>
-<img src="https://github.com/webingcool/threeRealCode/blob/main/1/5.png" width=550>
-<img src="https://github.com/webingcool/threeRealCode/blob/main/1/6.png" width=550>
-<img src="https://github.com/webingcool/threeRealCode/blob/main/1/7.png" width=550>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/1/1.png" width="450" style="max-width: 100%;float: left;">
+<img src="https://github.com/webingcool/threeRealCode/blob/main/1/2.png" width="450" style="max-width: 100%;float: left;">
+<img src="https://github.com/webingcool/threeRealCode/blob/main/1/3.png" width="450" style="max-width: 100%;float: left;">
+<img src="https://github.com/webingcool/threeRealCode/blob/main/1/4.png" width="450" style="max-width: 100%;float: left;">
+<img src="https://github.com/webingcool/threeRealCode/blob/main/1/5.png" width="450" style="max-width: 100%;float: left;">
+<img src="https://github.com/webingcool/threeRealCode/blob/main/1/6.png" width="450" style="max-width: 100%;float: left;">
+<img src="https://github.com/webingcool/threeRealCode/blob/main/1/7.png" width="450" style="max-width: 100%;float: left;">
 
 # 代码文件
-<img src="https://github.com/webingcool/threeRealCode/blob/main/2/1.png" width=550>
-<img src="https://github.com/webingcool/threeRealCode/blob/main/2/2.png" width=550>
-<img src="https://github.com/webingcool/threeRealCode/blob/main/2/3.png" width=550>
-<img src="https://github.com/webingcool/threeRealCode/blob/main/2/4.png" width=550>
-<img src="https://github.com/webingcool/threeRealCode/blob/main/2/5.png" width=550>
-<img src="https://github.com/webingcool/threeRealCode/blob/main/2/6.png" width=550>
-<img src="https://github.com/webingcool/threeRealCode/blob/main/2/7.png" width=550>
+<img src="https://github.com/webingcool/threeRealCode/blob/main/2/1.png" width="450" style="float:left;">
+<img src="https://github.com/webingcool/threeRealCode/blob/main/2/2.png" width="450" style="float:left;">
+<img src="https://github.com/webingcool/threeRealCode/blob/main/2/3.png" width="450" style="float:left;">
+<img src="https://github.com/webingcool/threeRealCode/blob/main/2/4.png" width="450" style="float:left;">
+<img src="https://github.com/webingcool/threeRealCode/blob/main/2/5.png" width="450" style="float:left;">
+<img src="https://github.com/webingcool/threeRealCode/blob/main/2/6.png" width="450" style="float:left;">
+<img src="https://github.com/webingcool/threeRealCode/blob/main/2/7.png" width="450" style="float:left;">
 
-# 项目截图（文件名是英文，谷歌翻译方便没有接触过的同学理解）
-<img src="https://github.com/webingcool/threeRealCode/blob/main/3/1.png" width=850>
-<img src="https://github.com/webingcool/threeRealCode/blob/main/3/2.png" width=850>
-<img src="https://github.com/webingcool/threeRealCode/blob/main/3/3.png" width=850>
 
 # 案例截图
 <img src="https://github.com/webingcool/threeRealCode/blob/main/4/11.png" >
 <img src="https://github.com/webingcool/threeRealCode/blob/main/4/22.png" >
 <img src="https://github.com/webingcool/threeRealCode/blob/main/4/33.png" >
+<img src="https://github.com/webingcool/threeRealCode/blob/main/4/ani.gif" >
 
 
-
-现在你学习这本书的内容有了更好的平台，至少我从2018年学习three.js一路走来，第一是本书的内容我已经吃透了，包括建模软件建模、模型动画、贴图、GLB模型轻量化、GLB转GLTF，建模软件设置灯光导出模型，并在three.js中激活灯光并设置动画，已经了如指掌。现在这本书你完全可以拥有，且只要9.9元。
+现在你学习这本书的内容有了更好的平台，至少我从2018年学习three.js一路走来，第一是本书的内容我已经吃透了，包括建模软件建模、模型动画、贴图、GLB模型轻量化、GLB转GLTF，建模软件设置灯光导出模型，并在three.js中激活灯光并设置动画，已经了如指掌。现在这本书你完全可以拥有，更重要的是，你买的不仅是书，还有我的指点，这个是书办不到的事情。
 
 我觉得自己琢磨不如高人指路，一个小问题，你可能琢磨少则半天，多则因为这问题卡住了，影像你学习的进度和热情，其实只要有个人点拨你一下，你立刻就能继续下面的研究和学习。
+
+# 现在最少只要9.9就能获得此书，现在加微信付款后发学习包给你：
+
+<img src="https://github.com/webingcool/threeRealCode/blob/main/img/price.png" >
 
